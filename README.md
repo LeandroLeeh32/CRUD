@@ -137,13 +137,13 @@ GET (Select)
 O método GET significa recuperar qualquer informação (na forma de uma entidade)
 
 POST (Insert)
-O método POST é usado para solicitar que o servidor de origem que aceite na entidade indicada a inclusão de um novo valor 
+O método POST é usado para solicitar que o servidor de origem aceite na entidade indicada a inclusão de um novo valor 
 
 PUT (Update)
 O método PUT solicita que a entidade indicada em um recurso já existente a alteração daquela que reside no servidor de origem.
 
 DELETE (Delete)
-O método DELETE solicita que o servidor de origem exclua o recurso da entidade indicada
+O método DELETE solicita que o servidor de origem que exclua o recurso da entidade indicada
 
 # Controller
 
