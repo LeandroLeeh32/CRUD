@@ -112,9 +112,9 @@ public partial class JogadorDbContext :DbContext
 
 # Criando Migrations
 
-> Para acompanhar as mudanças feitas no modelo de dados e manter a sincronia do modelo com o banco de dados o EF Core oferece o 
-> recurso Migrations ou Migrações que permite atualizar de forma incremental o esquema do banco de dados e assim mantê-lo 
-> sincronizado com o modelo de dados do seu projeto preservando os dados existentes.
+ Para acompanhar as mudanças feitas no modelo de dados e manter a sincronia do modelo com o banco de dados o EF Core oferece o 
+ recurso Migrations ou Migrações que permite atualizar de forma incremental o esquema do banco de dados e assim mantê-lo 
+ sincronizado com o modelo de dados do seu projeto preservando os dados existentes.
 
 # Comandos
 
