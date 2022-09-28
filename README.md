@@ -107,7 +107,7 @@ public partial class JogadorDbContext :DbContext
         }
 
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
-
+    }
 ```
 
 # Criando Migrations
