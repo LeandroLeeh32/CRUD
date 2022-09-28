@@ -1,6 +1,6 @@
 # CRUD
 
-Este artigo demonstrará como desenvolver um CRUD básico da criação do projeto abordando Entity FrameworkCore, Migration a Controller usaremos o banco Postgre. 
+Este artigo demonstrará como desenvolver um CRUD básico da criação do projeto abordando Entity FrameworkCore, Migration a Controller usaremos o banco PostgreSQL. 
 
 CRUD vem do inglês Create Read Update e Delete que em tradução livre para o português seria Criar, 
 Ler, Atualizar e Excluir. O CRUD é composto pelas operações básicas que uma aplicação faz a um banco de dados.
