@@ -140,7 +140,7 @@ POST (Insert)
 O método POST é usado para solicitar que o servidor de origem que aceite na entidade indicada a inclusão de um novo valor 
 
 PUT (Update)
-O método PUT solicita que a entidade indicada em um recurso já existente a inclusão de uma versão modificada daquela que reside no servidor de origem.
+O método PUT solicita que a entidade indicada em um recurso já existente a alteração daquela que reside no servidor de origem.
 
 DELETE (Delete)
 O método DELETE solicita que o servidor de origem exclua o recurso da entidade indicada
